@@ -22,12 +22,10 @@ RECIPES = {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
     },
-<<<<<<< HEAD
     'my_pizza': {
         'ingredients':{'mozzarella': 3, 'garlic': 5},
         'price': 10
     }
-=======
     'margherita': {
         'ingredients': {'mozzarella': 2, 'oregano': 4},
         'price': 10,
@@ -48,5 +46,4 @@ RECIPES = {
         'price': 11,
         'sauce': 'tomato'
     },
->>>>>>> 20c1aca (Pizza orderring and Tests)
 }
